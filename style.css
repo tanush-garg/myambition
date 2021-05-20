@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(175, 238, 199);
+    text-align: center;
+    padding: 25px;
+    }
+    
+    img{
+    width: 450px;
+    height: 300px;
+    }
+       h1{
+       color: royalblue;
+        padding: 10px;
+        font-size: 50px;
+        }
+        
+        h2{
+        color: rgb(156, 80, 255);
+        padding: 10px;
+        }
+        
+        p{
+        padding: 10px;
+        font-size: 20px;
+        }
+    
+
+
